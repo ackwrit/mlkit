@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74710977614",
+    "project_id": "machinelearning-9d985",
+    "storage_bucket": "machinelearning-9d985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74710977614:android:20ba9930e5f9720af8871f",
+        "android_client_info": {
+          "package_name": "com.example.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74710977614-br9apl3ubip8p71inalhul3v9n75gopv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvm4MQzo1emzdeF-U1jw-FRmKbBgiiBfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74710977614-br9apl3ubip8p71inalhul3v9n75gopv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
